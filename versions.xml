@@ -1925,4 +1925,21 @@
 			</p>
 		</aside>
 	</article>
+	<article data-sblg-article="1" data-sblg-tags="version">
+		<header>
+			<h1>3.0.1</h1>
+			<address>Kristaps Dzonsons</address>
+			<time datetime="2026-03-18">2026-03-18</time>
+		</header>
+		<aside>
+			<p>
+				Flesh out <b>-tmdoc</b> to handle macros flush against other words
+				and punctuation, e.g., <code>(*-abcd*):</code>.
+			</p>
+			<p>
+				Properly format <b>-tmdoc</b> and <b>-tman</b> compact lists,
+				including nested compact lists.
+			</p>
+		</aside>
+	</article>
 </articles>
